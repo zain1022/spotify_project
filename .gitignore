@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 
-# Ignore data files
-data/
-output/
+# Ignore data files and intermediate outputs
+data/*.json
+outputs/*
