@@ -6,7 +6,7 @@ This project analyzes Spotify user data to identify top songs, artists, and genr
 ## Folder Structure
 - `data/`: Contains the Spotify user data.
 - `scripts/`: Source code for data analysis and visualization.
-- `notebooks/`: Jupyter notebooks for exploratory analysis.
+- `notebooks/`: (Optional) Jupyter notebooks for exploratory analysis.
 - `output/`: Generated graphs and visualizations.
 - `README.md`: Project documentation.
 
